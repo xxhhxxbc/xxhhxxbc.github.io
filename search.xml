@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hello]]></title>
-    <url>%2F2017%2F04%2F28%2Fhello%2F</url>
-    <content type="text"><![CDATA[hello]]></content>
+    <title><![CDATA[2017HAUT校赛总结]]></title>
+    <url>%2F2017%2F04%2F28%2F2017HAUT%E6%A0%A1%E8%B5%9B%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[A.饶学妹的比赛结构体排序，需要稳定排序。 B.地狱飞龙求积分。 D.rqy的键盘模拟。 F.Hmz的女装将花环自l r位置切分开为拥有相同特性的两部分。打表1-n朵花两端花色相同的组合数。需注意打表时取模后的正负问题。 J.爱看电视的LsF暴力枚按键次数从小到大，各次检查是否可以实现。获取位数时需注意为0的情况。 H.ch追妹贪心。如果不能一步走到即失败。 I.小天使改名检查是否仅两位对换，特判所有字母相同情况。]]></content>
       <tags>
         <tag>杂谈</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[HAUT2017校赛总结]]></title>
-    <url>%2F2017%2F04%2F28%2FHAUT2017%E6%A0%A1%E8%B5%9B%E6%80%BB%E7%BB%93%2F</url>
-    <content type="text"><![CDATA[A.饶学妹的比赛结构体排序，需要稳定排序。 B.地狱飞龙求积分。 D.rqy的键盘模拟。 F.Hmz的女装将花环自l r位置切分开为拥有相同特性的两部分。打表1-n朵花两端花色相同的组合数。需注意打表时取模后的正负问题。 J.爱看电视的LsF暴力枚按键次数从小到大，各次检查是否可以实现。获取位数时需注意为0的情况。 H.ch追妹贪心。如果不能一步走到即失败。 I.小天使改名检查是否仅两位对换，特判所有字母相同情况。]]></content>
+    <title><![CDATA[hello]]></title>
+    <url>%2F2017%2F04%2F28%2Fhello%2F</url>
+    <content type="text"><![CDATA[hello]]></content>
       <tags>
         <tag>杂谈</tag>
       </tags>
